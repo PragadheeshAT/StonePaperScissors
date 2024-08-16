@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+img {
+    width: 50px;
+}
+
+.image-button {
+    background-color: transparent;
+    margin-right: 10px;
+    border-radius: 60px;
+    border: 1px solid white;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.result {
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.heading {
+    margin-bottom: 30px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.reset-button {
+    padding: 8px;
+    cursor: pointer;
+}
+
+.reset-button:hover {
+    background-color: red;
+}
